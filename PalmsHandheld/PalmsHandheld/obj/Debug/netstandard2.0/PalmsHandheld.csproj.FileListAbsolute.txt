@@ -1,0 +1,14 @@
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\bin\Debug\netstandard2.0\PalmsHandheld.deps.json
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\bin\Debug\netstandard2.0\PalmsHandheld.dll
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\bin\Debug\netstandard2.0\PalmsHandheld.pdb
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\PalmsHandheld.csprojAssemblyReference.cache
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\PalmsHandheld.csproj.CoreCompileInputs.cache
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\PalmsHandheld.AssemblyInfoInputs.cache
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\PalmsHandheld.AssemblyInfo.cs
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\PalmsHandheld.dll
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\PalmsHandheld.pdb
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Anshul.Vanawat\source\repos\PalmsHandheld\PalmsHandheld\PalmsHandheld\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
