@@ -5,29 +5,35 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="Xamarin.Forms" Version="3.0.0.561731" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Model\Entities\Actions\Validations\" />
+    <Folder Include="Library\Entities\Actions\Validations\" />
     <Folder Include="ViewModel\Converters\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="LoginPage.xaml.cs">
+    <Compile Update="Views\LoginPage.xaml.cs">
       <DependentUpon>LoginPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="RegisterPage.xaml.cs">
+    <Compile Update="Views\RegisterPage.xaml.cs">
       <DependentUpon>RegisterPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="HomePage.xaml">
+    <EmbeddedResource Update="Views\HomePage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="RegisterPage.xaml">
+    <EmbeddedResource Update="Views\RegisterPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

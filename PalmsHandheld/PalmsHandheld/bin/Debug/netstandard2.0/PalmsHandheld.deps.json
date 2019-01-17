@@ -67,7 +67,7 @@
     "Xamarin.Forms/3.0.0.561731": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ZnpuSybty6uZsgInJQD2QoYsjsdzPmu25EltSNJTnwgiQCW0MVZfwU6//jbt4Sf0ZfAiryi8MZFhU1I0NAP6Ew==",
+      "sha512": "sha512-MOhASQu2JiLXyUZuvPkK4qOeFrKvwLl4NnqtoDjfigfc7Bo67wss4ceeZAA6TP4AszOfSWhR5IEZFRMQrqJq8A==",
       "path": "xamarin.forms/3.0.0.561731",
       "hashPath": "xamarin.forms.3.0.0.561731.nupkg.sha512"
     }
